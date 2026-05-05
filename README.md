@@ -64,12 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tharushi03&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi03&theme=radical"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi03&layout=compact&theme=radical"/>
