@@ -64,13 +64,6 @@
 
 ---
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi03&layout=compact&theme=radical"/>
-</p>
-
----
-
 ### 🚀 Featured Project
 💡 **Flutter Task Manager App**
 - Local storage-based task tracking  
