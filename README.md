@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 - 🎓 Information Systems Undergraduate  
-- 💻 Passionate about **Frontend Development & UI Design**  
+- 💻 Passionate about **Frontend Development, Data Enginnering, Rag System and Cloud System**  
 - 📱 Currently building:  
   **Flutter Task Management App (with local storage)**  
 - 🌱 Learning: **React, Kotlin & Advanced JavaScript**  
