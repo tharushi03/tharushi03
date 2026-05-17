@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharushi Dilara</h1>
-<h3 align="center">✨ Frontend Developer | UI Enthusiast | IS Undergraduate ✨</h3>
+<h3 align="center">✨ Data Enginner| Cloud Enthusiastic | IS Undergraduate ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharushi03&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
