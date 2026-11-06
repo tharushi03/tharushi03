@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharushi Dilara</h1>
-<h3 align="center">✨ Data Enginner| Cloud Enthusiastic | IS Undergraduate ✨</h3>
+<h3 align="center">✨ Aspiring Data Engineer | Full-Stack & Microservices Developer | IS Undergraduate @ UCSC ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharushi03&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
@@ -8,12 +8,82 @@
 ---
 
 ### 💫 About Me
-- 🎓 Information Systems Undergraduate  
-- 💻 Passionate about **Frontend Development, Data Enginnering, Rag System and Cloud System**  
-- 📱 Currently building:  
-  **Flutter Task Management App (with local storage)**  
-- 🌱 Learning: **React, Kotlin & Advanced JavaScript**  
-- ⚡ Fun fact: I love blending **design + code**
+- 🎓 Information Systems undergraduate at the **University of Colombo School of Computing (UCSC)**
+- 🏭 Currently building **FabFlow**, a multi-tenant B2B SaaS platform for the custom fabrication industry, with a five-member team
+- 📊 Heading toward **Data Engineering**: pipelines, MLOps, and cloud-native systems
+- 🌍 Starting my open-source journey with **[dlt (data load tool)](https://github.com/dlt-hub/dlt)**
+- ⚡ Fun fact: I love blending **design + code**. I do UI/UX redesigns as happily as I write backend services
+
+---
+
+### 🚀 What I'm Working On
+
+#### 🏭 FabFlow: Multi-Tenant SaaS for Custom Fabrication
+A microservices platform where each team member owns distinct services, built in a **pnpm monorepo**.
+- ⚙️ **Stack:** Java Spring Boot · Next.js 15 · Python FastAPI · gRPC · RabbitMQ · Redis · Docker · Kubernetes
+- 🧩 Helped shape the architecture by identifying bounded contexts (Identity & Access, Document & Commerce, Project & Workflow) and restructuring the API route hierarchy
+- 🎨 Led the UI/UX redesign of the customer portal's five document modules: Quotation Requests, Quotations, Purchase Orders, Invoices, Payment Receipts
+- 📝 Built quotation request templates for six services: 3D Printing, Digital Printing, Laser Cutting & Engraving, CNC Fabrication, Custom Metalwork, Injection Molding
+- 🧾 Permission-aware actions, document lineage, and PDF invoices with `@react-pdf/renderer`
+
+#### 🌱 Open Source
+- Getting started contributing to **dlt**, a Python library for building data pipelines
+
+---
+
+### 🏆 Highlights
+
+**🤖 ML Opsidian Genesis (IEEE Student Branch, UCSC): Finalist**
+- Built a flood risk score regression model on a Sri Lankan dataset (CatBoost + district target encoding)
+- Final round: shipped an end-to-end MLOps pipeline using **FastAPI** serving, **Docker** on Render, **MLflow** tracking, a monitoring dashboard, and **GitHub Actions** CI/CD
+
+**💬 Real-Time Chat Module**
+- WhatsApp-style chat with **WebSockets + Redis pub/sub + Prisma**, plus online/last-seen status and read receipts
+
+**🚚 SwiftLogistics: Middleware Architecture Prototype**
+- Five Node.js components demonstrating Message Broker, API Gateway, Adapter, and Circuit Breaker patterns
+
+**📱 Earlier builds**
+- Flutter Task Manager (local storage, clean UI) · React Movie Search App
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🗄️ Backend & Microservices
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,prisma&theme=light" />
+</p>
+
+#### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=light" />
+</p>
+
+#### ☁️ Messaging, DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,docker,kubernetes,githubactions,pnpm&theme=light" />
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" />
+</p>
+
+#### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin&theme=light" />
+</p>
+
+#### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,postman&theme=light" />
+</p>
+
+---
+
+### 🎭 Beyond Code
+- Member of **Abhina**, UCSC's Dancing & Drama Circle, where I also design its promotional materials
 
 ---
 
@@ -28,51 +98,5 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
-</p>
-
-#### 📱 Mobile Development
-<p>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-</p>
-
-#### 🗄️ Backend & Database
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-#### ⚙️ Tools & Platforms
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-### 🚀 Featured Project
-💡 **Flutter Task Manager App**
-- Local storage-based task tracking  
-- Clean UI/UX design  
-- Productivity-focused features  
-
----
-
 ### ✨ Quote I Live By
 > "Code is not just logic, it's creativity expressed digitally."
-
----
